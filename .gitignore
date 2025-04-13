@@ -1,0 +1,25 @@
+# Ignore Home Assistant sensitive files and noisy temp files
+*.log
+*.db
+*.db-shm
+*.db-wal
+home-assistant_v2.db
+secrets.yaml
+*.tar
+__pycache__/
+*.pyc
+*.bak
+*.tmp
+
+# Ignore actual backups (just examples in repo)
+backups/*.tar
+backups/*.zip
+backups/*.gz
+
+# VSCode config
+.vscode/
+
+# MacOS and Linux fluff
+.DS_Store
+Thumbs.db
+.idea/
