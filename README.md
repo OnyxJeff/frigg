@@ -1,8 +1,6 @@
 # Frigg
 
 ![YAML Validation](https://github.com/OnyxJeff/Frigg/actions/workflows/validate-yaml.yml/badge.svg)
-![Last Commit](https://img.shields.io/github/last-commit/OnyxJeff/Frigg)
-![Repo Size](https://img.shields.io/github/repo-size/OnyxJeff/Frigg)
 ![Maintained](https://img.shields.io/badge/maintained-yes-brightgreen)
 
 Frigg is my **Home Assistant node**, running on a Raspberry Pi 4 with **HassOS**.  
