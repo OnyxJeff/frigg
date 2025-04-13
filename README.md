@@ -1,7 +1,7 @@
 # Frigg
 
 ![YAML Validation](https://github.com/OnyxJeff/Frigg/actions/workflows/validate-yaml.yml/badge.svg)
-![Maintained](https://img.shields.io/badge/maintained-yes-brightgreen)
+![Maintained](https://img.shields.io/badge/maintained-yes-blue)
 
 Frigg is my **Home Assistant node**, running on a Raspberry Pi 4 with **HassOS**.  
 It acts as the brains of my smart home—automating, alerting, and occasionally judging my lighting choices.
