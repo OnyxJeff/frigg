@@ -8,6 +8,21 @@ It acts as the brains of my smart home—automating, alerting, and occasionally 
 
 ---
 
+## 📁 Repo Structure
+
+```text
+Frigg/
+├── automations/          # YAML-based automations
+├── blueprints/           # Shared/reusable automation logic
+├── dashboards/           # Lovelace UI configurations
+├── secrets/              # Redacted secret file examples
+├── backups/              # Exported or example snapshot files
+├── .github/workflows/    # CI for YAML validation
+└── README.md             # You're reading it!
+```
+
+---
+
 ## 🔧 Key Components
 
 - **Automations**: YAML-based logic for everything from lights to routines.
@@ -21,21 +36,6 @@ It acts as the brains of my smart home—automating, alerting, and occasionally 
 ## 🧪 CI / Linting
 
 This repo uses [Yamllint](https://github.com/adrienverge/yamllint) via GitHub Actions to ensure all YAML files are well-formatted and ready to deploy.
-
----
-
-## 📁 Repo Structure
-
-```text
-Frigg/
-├── automations/          # YAML-based automations
-├── blueprints/           # Shared/reusable automation logic
-├── dashboards/           # Lovelace UI configurations
-├── secrets/              # Redacted secret file examples
-├── backups/              # Exported or example snapshot files
-├── .github/workflows/    # CI for YAML validation
-└── README.md             # You're reading it!
-```
 
 ---
 
