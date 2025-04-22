@@ -12,14 +12,18 @@ It acts as the brains of my smart home—automating, alerting, and occasionally 
 
 ```text
 Frigg/
+├── .github/workflows/    # CI for YAML validation
 ├── automations/          # YAML-based automations
 ├── blueprints/           # Shared/reusable automation logic
 ├── dashboards/           # Lovelace UI configurations
 ├── secrets/              # Redacted secret file examples
 ├── backups/              # Exported or example snapshot files
-├── .github/workflows/    # CI for YAML validation
 └── README.md             # You're reading it!
 ```
+
+---
+
+## 🚀 Deployment
 
 ---
 
