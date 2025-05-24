@@ -10,6 +10,7 @@ __pycache__/
 *.pyc
 *.bak
 *.tmp
+*.env
 
 # Ignore actual backups (just examples in repo)
 backups/*.tar
