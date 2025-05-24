@@ -23,10 +23,6 @@ Frigg/
 
 ---
 
-## 🚀 Deployment
-
----
-
 ## 🔧 Key Components
 
 - **Automations**: YAML-based logic for everything from lights to routines.
