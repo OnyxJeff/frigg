@@ -1,7 +1,10 @@
 # Frigg
 
-![YAML Validation](https://github.com/OnyxJeff/Frigg/actions/workflows/validate-yaml.yml/badge.svg)
-![Maintained](https://img.shields.io/badge/maintained-yes-blue)
+![Build Status](https://github.com/OnyxJeff/pp5-frigg/actions/workflows/build.yml/badge.svg)
+![Maintenance](https://img.shields.io/maintenance/yes/2025.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+![GitHub release](https://img.shields.io/github/v/release/OnyxJeff/pp5-frigg)
+![Issues](https://img.shields.io/github/issues/OnyxJeff/pp5-frigg)
 
 Frigg is my **Home Assistant node**, running on a Raspberry Pi 4 with **HassOS**.  
 It acts as the brains of my smart home—automating, alerting, and occasionally judging my lighting choices.
