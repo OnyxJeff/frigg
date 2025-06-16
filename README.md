@@ -1,6 +1,6 @@
 # Frigg
 
-![Build Status](https://github.com/OnyxJeff/pp5-frigg/actions/workflows/build.yml/badge.svg)
+![Build Status](https://github.com/OnyxJeff/pp5-frigg/actions/workflows/validate-yaml.yml/badge.svg)
 ![Maintenance](https://img.shields.io/maintenance/yes/2025.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![GitHub release](https://img.shields.io/github/v/release/OnyxJeff/pp5-frigg)
